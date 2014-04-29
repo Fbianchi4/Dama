@@ -1,0 +1,26 @@
+
+La damiera si compone di 64 caselle alternate per colore, bianche e scure e va posizionata con la casella in basso a destra di colore nero.
+
+Ciascun giocatore dispone all'inizio di 12 pedine, di colore diverso da quelle dell'avversario (bianche o nere), collocate sulle prime tre righe di caselle scure poste sul proprio lato della damiera. Il nero occupa le caselle dal n. 1 al n. 12, il bianco quelle dal n. 21 al n. 32. 
+La scelta del colore fra i giocatori si effettua per sorteggio.
+Inizia a giocare sempre il bianco.
+
+La pedina si muove sempre in diagonale sulle caselle scure di una casella alla volta e soltanto in avanti. Quando una pedina raggiunge una delle caselle dell'ultima riga viene promossa, diventa dama e deve essere contraddistinta con la sovrapposizione di un'altra pedina prelevata tra quelle non in gioco.
+
+Ogni pedina può mangiare quelle avversarie che si trovano in avanti, sulla casella diagonale accanto alla propria e che abbiano la casella successiva libera. Dopo la presa, se incontrano in diagonale altre pedine con la successiva casella libera, si deve continuare a mangiare senza togliere la mano dalla pedina stessa. In tal caso la presa si chiama multipla. Le pedine prese vanno tolte dalla damiera.
+
+La dama si muove anch'essa di una casella alla volta, sempre in diagonale, in tutte le direzioni possibili, mangiando sia le pedine che le dame avversarie.
+
+In caso di presa è obbligatorio mangiare i pezzi. L'antica regola del "soffio", ossia quella di catturare il pezzo avversario che pur avendone diritto, per distrazione o per scelta non aveva mangiato, è stata abolita dalla Federazione Dama nel 1934.
+
+Avendo più possibilità di presa si debbono rispettare obbligatoriamente nell'ordine le seguenti priorità:
+
+ - è obbligatorio mangiare dove ci sono più pezzi;
+
+ - a parità di pezzi di presa tra pedina e dama, quest'ultima è obbligata a mangiare;
+
+ - la dama sceglie la presa dove si mangiano più dame;
+
+ - a parità di condizioni si mangia dove si incontra prima la dama avversaria.
+
+
